@@ -17,7 +17,8 @@ INSTALLATION:
 3. Copy the Scripts folder into your build (They just need to be present somewhere in your project)
 4. Use either of the following two functions to send mail:
 
- ``` // Send an email using the encryption token
+ ``` 
+  // Send an email using the encryption token
   Email.SendEmailToken(from, to, subject, message, token);
 
   // Send a standard email with an unencrypted SMTP server
