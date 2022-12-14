@@ -37,7 +37,7 @@ public class SendEmail : MonoBehaviour
     [Tooltip("You can use HTML.Bold() or HTML.Italic() in the body/message.")]
     public string message;
 
-    public string token = "e9e5fee4-29c3-4c4d-9a22-561b3c2689f7";
+    public string token = "TokenHereIfApplicable";
 
     private void Start()
     {
