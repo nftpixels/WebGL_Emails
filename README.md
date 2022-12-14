@@ -1,6 +1,8 @@
 # WebGL_Emails
 Send emails through Unity WebGL using Smtp.js
 
+![Banner](https://user-images.githubusercontent.com/97366705/207487988-55e75600-7e36-43a8-8509-f87f14e8a819.jpg)
+
 ## HOW DOES IT WORK?
 
 Thought I'd post this in case someone out there is trying to make use of email notifications in-game or just outright send yourself notifications for in-game security breaches triggered by other players or someone mints your NFTs or any user/system action really.
